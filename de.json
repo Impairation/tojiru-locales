@@ -1,7 +1,7 @@
 {
     "login": "Anmelden",
     "register": "Registrieren",
-    "leaderboard": "Bestenliste",
+    "leaderboard": "Rangliste",
     "performance": "Performance", 
     "score": "Score",
     "relax": "Relax", 
@@ -19,11 +19,11 @@
     "friends": "Freunde",
     "settings": "Einstellungen",
     "logout": "Ausloggen",
-    "homeSubtitle": "Ein Private Server für osu!",
+    "homeSubtitle": "Ein Osu Private Server!",
     "homeAboutUs": "Informationen über uns",
     "homePeformanceRxAp": "PP für RX und AP",
     "homeFullyPrivate": "100% privat",
-    "homeAboutText": "Tojiru ist ein Private Server für osu. Wenn du auf einem Private Server spielen, könntest du einen zweiten Account haben, ohne gegen die Regeln zu verstoßen. Außerdem kannst du neue Leute kennenlernen und erhalten eine zweite Chance, wenn Sie auf dem offiziellen Server gesperrt sind.",
-    "homePPText": "Tojiru ermöglicht die Übermittlung von RX und AP Scores, das von den Top Scores zu trennen ist, wobei die PP-Berechnung fairer ist als bei anderen Servern.",
+    "homeAboutText": "Tojiru ist ein Osu Privat Server. Das spielen auf einem Privat Server, ermöglicht dir einen zweiten Account zu haben, ohne gegen die Regeln zu verstoßen. Außerdem kannst du neue Leute kennenlernen und erhälts eine zweite Chance, wenn Sie auf dem offiziellen Server gebannt sind.",
+    "homePPText": "Auf Tojiru kann man mit RX und AP spielen, diese Scores haben eine seperate Rangliste, wobei die PP-Berechnung fairer ist als bei anderen Servern.",
     "homePrivateText": "Da Sie sich bei Tojiru bewerben oder dafür bezahlen müssen, ist es für Betrüger, Multi-Accounts und Idioten schwieriger zu spielen."
 }
